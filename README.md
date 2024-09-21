@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-# Secure_Bank_AVAX
-=======
-Certainly! Here's the formatted version of the README for your Simple Bank project:
-
----
-
 # 🌐 Welcome to Simple Bank
 
 > 💸 A Simple Web3 application for managing Ether transfers and account balances.
@@ -251,7 +244,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Thank You
 
 Thank you for using Simple Bank! If you have any questions or need further assistance, feel free to reach out.
-
----
->>>>>>> 925edbc (Create README.md)
-# Simple_Bank--Function-Frontend-AVAX
