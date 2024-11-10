@@ -10,7 +10,7 @@ This project is an intuitive web3 application created using JavaScript and Solid
 
 For a detailed video walkthrough, watch the [video](https://www.loom.com/share/58d6a165ba22421599bbc6d107b1e566?sid=3c393a55-09ee-4f2a-841c-abca3bf1d77f).
 
-FOR MORE DETAILED VIDEO VISIT HERE -> watch the [video](https://www.loom.com/share/9847ea79700d43b9b6b305f41a4a39b9?sid=9ee3ac56-2b1e-4d82-a772-741635e2fe45).
+FOR MORE DETAILED VIDEO VISIT HERE -> WATCH THE [VIDEO](https://www.loom.com/share/dd983c2245c04e629128f6277b71d767?sid=41724f0d-c89d-41e7-a25d-926d4b481b1d).
 
 ## Technologies Used 🛠️
 
